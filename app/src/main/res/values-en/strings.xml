@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shoes store</string>
+    <string name="femenino">Female</string>
+    <string name="adidas">adidas</string>
+    <string name="borrar">clear</string>
+    <string name="cantidad">quantity</string>
+    <string name="clasico">classic</string>
+    <string name="error_cero">should not be zero</string>
+    <string name="error_vacio">Enter how many are</string>
+    <string name="masculino">male</string>
+    <string name="nike">nike</string>
+    <string name="puma">puma</string>
+    <string name="sexo">sex</string>
+    <string name="tipozapato">kind of shoes</string>
+    <string name="zapatos">brand shoes</string>
+    <string name="total">calculate total</string>
+    <string name="zapatilla">slipper</string>
+
+</resources>
